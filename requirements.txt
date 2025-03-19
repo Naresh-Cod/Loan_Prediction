@@ -1,0 +1,14 @@
+#flask
+streamlit 
+pandas
+numpy
+scikit-learn
+boto3
+sagemaker
+joblib
+
+# Testing dependencies
+pytest
+
+# Code linting dependencies
+pylint
